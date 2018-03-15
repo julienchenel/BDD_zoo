@@ -1,0 +1,37 @@
+nom,nom scientifique,nb individu,type d’aliment,secteur
+Albatros de Steller , Diomedea albatrus,4,piscivore,Secteur 1
+Atrichorne bruyant , Atrichornis clamosus,10,herbivore,Secteur 3
+Autruche , Struthio camelus,13,insectivore,Secteur 3
+Cotinga , Cotinga maculata,22,piscivore,Secteur 3
+Effraie de Soumagne , Tyto soumagnei,28,herbivore,Secteur 3
+Étourneau de Bali , Leucopsar rothschildi,3,insectivore,Secteur 3
+Fou d'Abbott , Papasula abbotti,5,granivore,Secteur 3
+Grèbe géant , Podilymbus gigas,9,insectivore,Secteur 3
+Grue de Sibérie , Grus leucogeranus,11,granivore,Secteur 3
+Kakapo , Strigops habroptilus,18,herbivore,Secteur 3
+Mainate religieux , Gracula religiosa,16,insectivore,Secteur 13
+Manchot de Humboldt ,Spheniscus humboldti,14,granivore,Secteur 14
+Mouette relique ,Larus relictus,12,granivore,Secteur 15
+Méliphage cornu , Lichenostomus melanops cassidix,8,piscivore,Secteur 17
+Baleine du Groenland , Balaena mysticetus,23,planctophage,Secteur 5
+Baleine pygmée , Caperea marginata,25,planctophage,Secteur 7
+Bandicoot à pied de porc , Chaeropus ecaudatus (peut-être éteint),27,frugivore,Secteur 2
+Chimpanzé bonobo , Pan bonobo,28,frugivore,Secteur 3
+Cachalot , Physeter macrocephalus,29,frugivore,Secteur 4
+Caracal , Caracal caracal,30,frugivore,Secteur 5
+Chimpanzé , Pan troglodytes,17,omnivore,Secteur 8
+Couguar ou Puma , Felis concolor,5,carnivore,Secteur 10
+Entelle , Semnopithecus entellus,8,piscivore,Secteur 5
+Gibbon , Hylobatidae Gibbons,10,frugivore,Secteur 1
+Gorille , Gorilla gorilla,12,frugivore,Secteur 2
+Guépard , Acinonyx jubatus,14,carnivore,Secteur 13
+Hyperoodon , Hyperoodon spp.,16,granivore,Secteur 14
+Jaguarondi , Herpailurus yaguarondi,20,piscivore,Secteur 16
+Loutre de mer , Enhydra lutris,22,frugivore,Secteur 17
+Lamantin ," Trichechus inunguis, T. manatus",24,frugivore,Secteur 18
+Once ou Panthère des neiges , Uncia uncia,12,carnivore,Secteur 23
+Okapi , Okapia johnstoni,11,frugivore,Secteur 4
+Panthère nébuleuse , Neofelis nebulosa,9,carnivore,Secteur 6
+Petit panda , Ailurus fulgens,8,granivore,Secteur 7
+Sanglier nain ou Babiroussa , Babyrousa babyrussa,5,omnivore,Secteur 3
+Tigre , Panthera tigris,6,carnivore,Secteur 6
